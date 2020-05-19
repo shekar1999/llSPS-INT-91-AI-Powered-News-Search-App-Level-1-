@@ -1,1 +1,1 @@
-AI poowered news search app
+AI powered news search app
